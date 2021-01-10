@@ -1,0 +1,13 @@
+.idea/
+*.log
+npm-debug.log
+yarn-error.log
+.DS_Store
+build/
+node_modules/
+dist/
+.cache
+.next/
+.env
+.now
+wordpress/plugins
